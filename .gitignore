@@ -1,0 +1,83 @@
+# Security & System Files
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+*.jks
+
+# Credentials & Secrets
+.env
+.env.local
+.env.*.local
+**/secrets/
+**/credentials/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Machines & Labs
+*.vmdk
+*.iso
+*.qcow2
+virtual_machines/
+labs/
+
+# Logs
+*.log
+*.logs
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Node (if using any JS tools)
+node_modules/
+npm-debug.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Package managers
+*.lock
+Package.lock.json
