@@ -66,3 +66,108 @@ Following the **Team Purple Path**:
 - Start **Google Cybersecurity course (Coursera)**  
 - Document projects & labs in **dedicated repositories**  
 - Prepare for **CompTIA Security+**
+
+
+---
+
+## 🎯 Current Status (December 2024)
+
+### ✅ Completed
+- Cisco Introduction to Cybersecurity (Foundations)
+- Linux basics fundamentals
+- Git & GitHub workflow
+- Cybersecurity fundamentals & CIA Triad
+- Created professional portfolio repository
+- Started TryHackMe penetration testing path
+
+### 🔄 In Progress
+- **CompTIA Security+ Certification** - 60% complete
+- **TryHackMe Exploitation Path** - Active labs & CTF challenges
+- **Google Cybersecurity Course (Coursera)** - Modules in progress
+- Python security scripting fundamentals
+
+### 📋 Planned Next
+- Complete CompTIA Security+ and attempt exam
+- Advanced TryHackMe labs (red teaming)
+- HackTheBox realistic penetration tests
+- Python automation for pentesting
+- OWASP Top 10 deep dive
+- Network protocol analysis with WireShark
+
+---
+
+## 🔧 Tools & Technologies
+
+**Currently Using:**
+- Kali Linux, Ubuntu
+- Nmap, Metasploit, Burp Suite
+- WireShark, tcpdump
+- Python 3.x for scripting
+- Git & GitHub
+
+**Learning:**
+- SIEM tools (Splunk, ELK)
+- Incident response platforms
+- Advanced exploitation frameworks
+
+---
+
+## 📚 Repository Structure Update
+
+This repository now serves as:
+1. **Learning Documentation** - Notes & progress tracking
+2. **Portfolio Showcase** - Demonstrating skills & certifications
+3. **Lab Repository** - Documented pentesting exercises
+4. **Reference Materials** - Organized cybersecurity knowledge
+
+For recruitment purposes, focus on:
+- `README.md` - Professional overview
+- `Projects/` - Practical pentesting demonstrations
+- `CompTIA_Security+/` - Certification progress
+- Commit history - Consistent learning engagement
+
+---
+
+## 💡 Key Learnings
+
+**What I've Realized:**
+1. **Pentesting is methodical** - Not just hacking; it requires structured approach
+2. **Defense ↔ Offense** - Understanding both sides makes you better
+3. **Continuous learning is essential** - Cybersecurity evolves constantly
+4. **Documentation matters** - Clear writeups demonstrate expertise
+5. **Practice > Theory** - Hands-on labs build real skills
+
+---
+
+## 🚀 Goals for 2025
+
+**Q1 2025:**
+- Earn CompTIA Security+ certification
+- Complete 50+ TryHackMe labs
+- Develop 3 custom security tools in Python
+
+**Q2 2025:**
+- HackTheBox progression (Insane level)
+- Start bug bounty program participation
+- Create security blog with writeups
+
+**Q3-Q4 2025:**
+- Apply for junior pentester/security analyst roles
+- Complete advanced certifications (CEH basics)
+- Build professional network in security community
+
+---
+
+## 📞 Let's Connect
+
+If you're interested in cybersecurity, pentesting, or want to collaborate:
+- Star this repo if it helps you
+- Check out my [README.md](./README.md) for full portfolio
+- Follow my progress through commits
+- Feel free to open issues with suggestions or questions
+
+---
+
+**Last Updated:** December 2024
+**Journey Status:** 🔴 Month 4 of 12-Month Bootcamp  
+**Focus:** Red/Purple Team Path
