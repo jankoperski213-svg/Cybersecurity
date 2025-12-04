@@ -25,6 +25,16 @@ I am an aspiring **Penetration Tester** and **Cybersecurity Professional** follo
 
 ## 🎯 Portfolio Highlights
 
+### ⭐ Featured Labs & Writeups
+
+Showcasing my penetration testing skills with completed labs and detailed writeups:
+
+- **[Moniker Link (CVE-2024-21413)](./Projects/TryHackMe_Labs/Moniker_Link/README.md)** – TryHackMe  
+  Email exploitation via Microsoft Outlook vulnerability. Covers initial access, privilege escalation, and post-exploitation techniques. **Tech:** CVE analysis, Windows service exploitation, reverse shells.
+
+- **[More writeups coming...](./Projects/TryHackMe_Labs/)** → Check my **[TryHackMe profile](https://tryhackme.com/p/jkoperski837)** for all 41+ completed rooms.
+
+
 ### 📚 Learning Paths
 
 #### **Foundations** (`./Foundations`)
@@ -173,8 +183,8 @@ All pentesting labs and exploits documented here are performed in **authorized p
 ## 📞 Contact & Connect
 
 - **GitHub:** [jankoperski213-svg](https://github.com/jankoperski213-svg)
-- **LinkedIn:** [Your LinkedIn]  
-- **Email:** [Your Email]
+- **LinkedIn:** [[Your LinkedIn]](https://www.linkedin.com/in/jan-koperski-671167385/)  
+- **Email:** jan.koperski837@gmail.com
 
 ---
 
